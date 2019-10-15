@@ -1,0 +1,4 @@
+give A,B,C
+sum A,B,C and devide 3 result is i
+if(i=0 ; i<61  ) {FAIL}
+else {pass}
